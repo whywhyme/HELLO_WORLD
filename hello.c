@@ -6,6 +6,7 @@ int main()
 
 	printf("hello this is version 1.0\n");
 	printf("this is modified by me");
+	printf("first issue\n");
 	return 0;
 
 }
